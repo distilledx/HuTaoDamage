@@ -15,7 +15,7 @@ Hu Tao is always considered to be below 50% hp but that is what you should be go
 
 # TL;DR
 
-- 4 star weapons - Blackcliff Pole all the way if you have high crit rate. Blackcliff or Deathmatch(not f2p tho) if you have lower crit rate. Dragon's Bane is ok but not great. Use only if you don't have the others.
+- 4 star weapons - Blackcliff Pole all the way if you have high crit rate. Deathmatch for boss fights. Blackcliff or Deathmatch(not f2p tho) if you have lower crit rate. Dragon's Bane is ok but not great. Use only if you don't have the others.
 
 - Artifacts - For general use, SR(shimenawa's reminiscence) and CWF(crimson witch of flames) are both pretty much equal. Use whichever you have better substats for. For more specifc, CWF is better for shorter fights, SR for longer fights. CWF better for vaporize comps.
 
